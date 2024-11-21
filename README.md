@@ -2,6 +2,9 @@
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
+### Namw: AMIRTHAVARSHINI V
+### REG NO: 212223040014
+
 ## AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
 
